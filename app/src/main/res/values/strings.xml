@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Txintxa Cambio</string>
+    <string name="entrar">Entrar</string>
+    <string name="moeda1">Moeda a Converter</string>
+    <string name="moeda2">Moeda Final</string>
+    <string name="converter">Converter</string>
+    <string name="valor1">Valor a converter</string>
+
+    <string name="DM">Dolar vs Metical</string>
+    <string name="DE">Dolar vs Euro</string>
+    <string name="DL">Dolar vs Libra</string>
+    <string name="DR">Dolar vs Real</string>
+
+    <string name="EM">Euro vs Metical</string>
+    <string name="ED">Euro vs Dolar</string>
+    <string name="EL">Euro vs Libra</string>
+    <string name="ER">Euro vs Real</string>
+    <string name="Mais_Moedas">+ Moedas</string>
+
+    <string name="RM">Real vs Metical</string>
+    <string name="RD">Real vs Dolar</string>
+    <string name="RL">Real vs Libra</string>
+    <string name="RE">Real vs Euro</string>
+
+    <string name="MR">Metical vs Real</string>
+    <string name="MD">Metical vs Dolar</string>
+    <string name="ML">Metical vs Libra</string>
+    <string name="ME">Metical vs Euro</string>
+
+
+</resources>
